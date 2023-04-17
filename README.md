@@ -1,16 +1,6 @@
-# ui_design
+# eCommerce_UI
 
-A new Flutter project.
+Looking for an eye-catching e-commerce app design? Check out my latest UI design for a Flutter app! With three sleek pages, including a home page with featured products, a detailed product page, and an easy-to-use add-to-cart page.
+## UI Design
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture](https://user-images.githubusercontent.com/97346744/232406925-05fd7cc1-0434-4252-a1e8-ebe3c472eb9d.PNG)
